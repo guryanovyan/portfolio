@@ -13,6 +13,10 @@ Welcome to my portfolio! My goal is to become a professional software developer.
 **Technology**: PostgreSQL, Express.js, React, Node.js    
 **Description**: PERN stack project of an online store, where an admin can upload items and categorize them, user can easily find items and add them to cart.
 
+### [User table](https://github.com/guryanovyan/user-table)
+**Technology**: .NET, ASP.NET Core, SQLite, HTML, CSS, JavaScript    
+**Description**: Implementation of data management in a single table, where users can be added locally or stored on the server.
+
 ## Flutter applications
 ### [Shoe store app](https://github.com/guryanovyan/shoe-store-app)
 **Technology**: Flutter, Dart   
